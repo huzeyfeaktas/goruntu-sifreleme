@@ -218,17 +218,7 @@ gorsel-sifreleme/
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
-## 📞 İletişim
 
-- **Proje Sahibi**: [Kullanıcı Adı]
-- **E-posta**: [email@example.com]
-- **GitHub**: [https://github.com/kullaniciadi]
-
-## 🙏 Teşekkürler
-
-- OpenCV topluluğuna görüntü işleme kütüphanesi için
-- Flask ekibine web framework için
-- Tüm katkıda bulunanlara
 
 ---
 
